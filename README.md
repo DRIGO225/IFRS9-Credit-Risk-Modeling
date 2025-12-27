@@ -43,6 +43,6 @@ IFRS9-Credit-Risk-Modeling/
 - Credit risk & IFRS 9 framework
 
 ## Author
-Kan Roderigue Koffi  
+Rodrigue KOFFI  
 Quantitative Risk Analyst  
 FRM Level I Candidate
